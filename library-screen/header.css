@@ -4,6 +4,7 @@ header {
   justify-content: center;
   align-items: center;
   padding: 40px 10px;
+  padding-top: 30px;
 }
 .library-menu__column {
   width: 33%;
